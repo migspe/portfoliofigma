@@ -1,0 +1,167 @@
+/* Reset CSS básico para garantir consistência */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para o contêiner principal */
+.Inicial {
+    width: 1920px;
+    height: 1151px;
+    position: relative;
+    background: black;
+}
+
+/* Estilos para a imagem */
+.Imagem {
+    width: 466px;
+    height: 526px;
+    position: absolute;
+    left: 1052px;
+    top: 235px;
+}
+
+.Rectangle48 {
+    width: 466px;
+    height: 526px;
+    position: absolute;
+    border-radius: 16px;
+    border: 3px solid #22D4FD;
+}
+
+.Image11 {
+    width: 441px;
+    height: 504px;
+    position: absolute;
+    left: 6px;
+    top: 15px;
+}
+
+/* Estilos para a seção de grupo */
+.Group1 {
+    width: 615px;
+    height: 482px;
+    position: absolute;
+    left: 357px;
+    top: 278px;
+}
+
+.Frame14228, .Frame14229 {
+    width: 280px;
+    height: 79px;
+    padding: 16px;
+    background: #22D4FD;
+    border-radius: 16px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    position: absolute;
+}
+
+.Frame14228 {
+    left: 335px;
+    top: 403px;
+}
+
+.Frame14229 {
+    left: 5px;
+    top: 403px;
+}
+
+.Github, .Instagram {
+    text-align: center;
+    color: black;
+    font-size: 24px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    line-height: 36px;
+}
+
+/* Estilos para o texto inicial */
+.TextoInicial {
+    width: 593px;
+    height: 352px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.EleveSeuNegCioDigitalAOutroNVelComUmFrontEndDeQualidade {
+    width: 593px;
+}
+
+.EleveSeuNegCioDigitalAOutroNVelComUmFrontEndDeQualidade span {
+    font-size: 36px;
+    font-family: Krona One, sans-serif;
+    font-weight: 400;
+    line-height: 56px;
+}
+
+.EleveSeuNegCioDigitalAOutroNVelComUmFrontEndDeQualidade span:first-child {
+    color: #F6F6F6;
+}
+
+.EleveSeuNegCioDigitalAOutroNVelComUmFrontEndDeQualidade span:last-child {
+    color: #22D4FD;
+}
+
+.OlSouXxxxxxXxxxxDesenvolvedoraFrontEndComEspecialidadeEmReactHtmlECssAjudoPequenosNegCiosEDesignersAColocaremEmPrTicaBoasIdeiasVamosConversar {
+    width: 593px;
+    color: #F6F6F6;
+    font-size: 24px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+/* Estilos para os links de navegação */
+.Home, .SobreMim {
+    position: absolute;
+    color: #22D4FD;
+    font-size: 40px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    line-height: 56px;
+}
+
+/* Estilo específico para cada link de navegação */
+.Home {
+    left: 362px;
+    top: 43px;
+}
+
+.SobreMim {
+    left: 618px;
+    top: 43px;
+}
+
+/* Estilo para a barra inferior */
+.Rectangle198 {
+    width: 1920px;
+    height: 126px;
+    position: absolute;
+    background: #22D4FD;
+    left: 0;
+    top: 1025px;
+}
+
+/* Estilo para o texto de créditos */
+.DesenvolvidoPorXxxxxXxxxxxx {
+    left: 661px;
+    top: 1060px;
+    position: absolute;
+    color: black;
+    font-size: 36px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    line-height: 56px;
+}
